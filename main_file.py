@@ -6,7 +6,7 @@ import statistics
 
 def main():
 
-
+    #hello
     print("Do you want to open the webcam?")
     while True:
 
